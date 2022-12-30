@@ -7,6 +7,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ![images](images/ERdiagram.png)
 
+![images](images/Employeenames.png)
 
 ## DESIGN STEPS
 
